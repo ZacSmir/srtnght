@@ -22,7 +22,7 @@ sortButton.click(function() {
     name: name,
     house: chooseRandomHouse()
   })
-  console.log(name" is in house "house)
+  console.log(name " is in house " chooseRandomHouse())
 })
 
 onNewListItem("enrolledStudents", function(student) {
