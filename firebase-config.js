@@ -1,8 +1,10 @@
 var firebaseConfig = {
-  apiKey: "",
-  authDomain: "domain-here.firebaseapp.com",
-  databaseURL: "https://domain-here.firebaseio.com"	
+  apiKey: " AIzaSyBTQz6kmAWd-J_10b4036LxO9Gus7eBhFU",
+  authDomain: "trump-clicker.firebaseapp.com",
+  databaseURL: "https://trump-clicker-bae64.firebaseio.com/"	
 };
+
+
 
 firebase.initializeApp(firebaseConfig);
 
